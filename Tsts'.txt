@@ -1,0 +1,1 @@
+git remote add upstream https://github.com/TestIZLtd/master2.gitsdichdsucd
